@@ -1,2 +1,4 @@
 hi ,this is a test repo.
 bye!!
+Another change , just check the contribution graph.
+bye again!
